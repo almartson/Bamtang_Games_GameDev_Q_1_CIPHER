@@ -39,4 +39,5 @@ frecuente)
 * No uses archivos ni pidas ingresar datos.
 * Mantener las mayúsculas y minúsculas del mensaje, así como los saltos de linea.
 
+*******************************************************************************
 ### (4 PUNTOS)
