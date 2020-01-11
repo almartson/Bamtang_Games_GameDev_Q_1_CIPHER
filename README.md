@@ -40,4 +40,6 @@ frecuente)
 * Mantener las mayúsculas y minúsculas del mensaje, así como los saltos de linea.
 
 *******************************************************************************
+Source Code By:	 Alejandro E. Almarza Martín
+*******************************************************************************
 ### (4 PUNTOS)
