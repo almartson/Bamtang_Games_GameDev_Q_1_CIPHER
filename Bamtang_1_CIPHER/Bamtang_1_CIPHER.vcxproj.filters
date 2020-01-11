@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\..\..\TRABAJO\VIDEO-JUEGOS\00_APLICANDO_TRABAJOS_VIDEOJUEGOS\PERU\1_BAMTANG_GAMES\EXAMEN\1_CYPHER_VersionMejorada\VersionMejorada\main.cpp">
+    <ClCompile Include="source\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

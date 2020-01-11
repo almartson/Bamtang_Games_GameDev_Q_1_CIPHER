@@ -10,6 +10,9 @@
       <Platform>Win32</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="source\main.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{D2A7A1EB-3034-4992-B0ED-4CC0A72F7C35}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
@@ -73,9 +76,6 @@
       <OptimizeReferences>true</OptimizeReferences>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include="..\..\..\..\..\..\TRABAJO\VIDEO-JUEGOS\00_APLICANDO_TRABAJOS_VIDEOJUEGOS\PERU\1_BAMTANG_GAMES\EXAMEN\1_CYPHER_VersionMejorada\VersionMejorada\main.cpp" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
