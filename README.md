@@ -1,5 +1,5 @@
 # Bamtang_Games_GameDev_Q_1_CIPHER
-Algorithm to decrypt a message based on a Frequency Table - Bamtang Games' Game Dev Exam Answer to:
+Algorithm written in C++ to decrypt a message based on a Frequency Table - My Answer to the Bamtang Games' Game Dev Exam, in:
 
 ## Question number 1.
 ## 1. CIPHER
