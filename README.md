@@ -1,5 +1,5 @@
 # Bamtang_Games_GameDev_Q_1_CIPHER
-Algorithm to decrypt a message based on a Frequency Table - Bamtang Games' Game Dev Exam Answer to: Question #1 (CIPHER)
+Algorithm to decrypt a message based on a Frequency Table - Bamtang Games' Game Dev Exam Answer to:
 
 ## Question number 1.
 ## 1. CIPHER
