@@ -1,5 +1,6 @@
 # Bamtang_Games_GameDev_Q_1_CIPHER
-Algorithm written in C++ to decrypt a message based on a Frequency Table - My Answer to the Bamtang Games' Game Programmer Exam (originally published in 2018):
+Algorithm written in C++ to decrypt a message based on a Frequency Table - My Answer to the Bamtang Games' [Game Programmer Exam (originally published in 2018)] (README_QuestionDetails/BAMTANG_ExamCpp_2018.pdf):
+
 
 ## Question number 1.
 ## 1. CIPHER
@@ -41,7 +42,10 @@ frecuente)
 
 *******************************************************************************
 
-#### Note: This source code was written in Visual Studio C++ 2010 (IDE), to build an executable file.
+#### Note:
+#### 1- This source code was written in Visual Studio C++ 2010 (IDE), to build an executable file.
+
+#### 2- [Bamtang Games' Game Programmer Exam Link] (https://www.bamtang.com/careers/game-programmer)
 
 *******************************************************************************
 Source Code By:	 Alejandro E. Almarza Martín
