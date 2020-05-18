@@ -29,14 +29,14 @@ zfdxjefl xodx vgn'x zqaox fdro gxofe. - Mgon Rdepdrw.
 
 ##### Implementar la función: decryptMessage( message, freqLang )
 
-Ordena las letras del mensaje encriptado de acuerdo al numero de veces que se repiten (de mayor a menor) y compáralo con la tabla de frecuencia de caracteres del lenguaje en que esta escrito este mensaje, que para este caso es:
+Ordena las letras del mensaje encriptado de acuerdo al número de veces que se repiten (de mayor a menor) y compáralo con la tabla de frecuencia de caracteres del lenguaje en que está escrito este mensaje, que para este caso es:
 
 ##### freqLang = "TEOAISRHNUCMDLGWFPYKJBVQX" 
 (de más frecuente a menos frecuente)
 
 * Tu programa debe imprimir el texto desencriptado en pantalla.
 * No uses archivos ni pidas ingresar datos.
-* Mantener las mayúsculas y minúsculas del mensaje, así como los saltos de linea.
+* Mantener las mayúsculas y minúsculas del mensaje, así como los saltos de línea.
 
 *******************************************************************************
 
