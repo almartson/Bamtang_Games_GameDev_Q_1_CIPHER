@@ -47,7 +47,9 @@ Ordena las letras del mensaje encriptado de acuerdo al número de veces que se r
 #### Notes:
 #### 1- This source code was written in <strong> Visual Studio C++ 2010 </strong> (IDE), to build an executable file.
 
-#### 2- [Bamtang Games' current Game Programmer Exam, as reference](https://www.bamtang.com/careers/game-programmer).
+#### 2- [Game Programmer Exam Questions (originally published in 2018)](README_QuestionDetails/BAMTANG_ExamCpp_2018.pdf).
+
+#### 3- [Bamtang Games' current Game Programmer Exam, as reference](https://www.bamtang.com/careers/game-programmer).
 
 *******************************************************************************
 Source Code By:	 Alejandro E. Almarza Martín
