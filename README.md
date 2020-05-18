@@ -32,8 +32,7 @@ zfdxjefl xodx vgn'x zqaox fdro gxofe. - Mgon Rdepdrw.
 Ordena las letras del mensaje encriptado de acuerdo al numero de veces que se repiten (de mayor a menor) y compáralo con la tabla de frecuencia de caracteres del lenguaje en que esta escrito este mensaje, que para este caso es:
 
 ##### freqLang = "TEOAISRHNUCMDLGWFPYKJBVQX" 
-(de mas frecuente a menos
-frecuente)
+(de más frecuente a menos frecuente)
 
 * Tu programa debe imprimir el texto desencriptado en pantalla.
 * No uses archivos ni pidas ingresar datos.
@@ -44,7 +43,7 @@ frecuente)
 #### Note:
 #### 1- This source code was written in Visual Studio C++ 2010 (IDE), to build an executable file.
 
-#### 2- [Bamtang Games' current Game Programmer Exam, for reference](https://www.bamtang.com/careers/game-programmer)
+#### 2- [Bamtang Games' current Game Programmer Exam, for reference](https://www.bamtang.com/careers/game-programmer).
 
 *******************************************************************************
 Source Code By:	 Alejandro E. Almarza Martín
