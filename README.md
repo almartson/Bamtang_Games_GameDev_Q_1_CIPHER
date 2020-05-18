@@ -40,6 +40,10 @@ frecuente)
 * Mantener las mayúsculas y minúsculas del mensaje, así como los saltos de linea.
 
 *******************************************************************************
+
+#### Note: This source code was written in Visual Studio C++ 2010 (IDE), to build an executable file.
+
+*******************************************************************************
 Source Code By:	 Alejandro E. Almarza Martín
 *******************************************************************************
 ### (4 PUNTOS)
