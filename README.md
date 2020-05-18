@@ -40,6 +40,10 @@ Ordena las letras del mensaje encriptado de acuerdo al numero de veces que se re
 
 *******************************************************************************
 
+### (4 PUNTOS)
+
+*******************************************************************************
+
 #### Notes:
 #### 1- This source code was written in <strong> Visual Studio C++ 2010 </strong> (IDE), to build an executable file.
 
@@ -48,9 +52,7 @@ Ordena las letras del mensaje encriptado de acuerdo al numero de veces que se re
 *******************************************************************************
 Source Code By:	 Alejandro E. Almarza Martín
 *******************************************************************************
-### (4 PUNTOS)
 
-*********************************************
 
 MIT License
 
